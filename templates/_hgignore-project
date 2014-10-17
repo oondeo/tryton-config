@@ -1,0 +1,45 @@
+# use glob syntax.
+syntax: glob
+.hgignore
+.env
+*.aux
+*.BAK
+*.dvi
+*.jasper
+*.log
+*.log.*
+*.nav
+*.out
+*.pyc
+*.snm
+*.sql
+*.swo
+*.swp
+*.toc
+*.zip
+*.backup
+*.nan
+*.pid
+*~
+LICENSE
+README
+./.pc/
+./nereid_app/
+./features/
+bin/
+config/
+tasks/
+build/
+include/
+lib/
+local/
+man/
+modules/
+tryton/
+trytond/
+nereid/
+source-doc/
+public_data/
+
+# switch to regexp syntax.
+syntax: regexp
