@@ -20,6 +20,7 @@ jsonrpclib
 lxml>=3.1.0
 nose>=1.2.1
 polib>=1.0.2
+psutil
 psycopg2>=2.4.6
 pydot
 # require freetds-dev
