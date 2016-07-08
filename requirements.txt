@@ -56,7 +56,6 @@ flake8
 suds>=0.4
 PyPDF2
 simplemysql
-xlwt
 
 #For the scenarios
 behave
