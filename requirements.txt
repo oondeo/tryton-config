@@ -16,6 +16,7 @@ easyimap>=0.3.3
 imaplib2
 jsonrpclib
 lxml>=3.1.0
+mysql-python
 nose>=1.2.1
 petl
 polib>=1.0.2
