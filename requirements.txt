@@ -44,7 +44,10 @@ html2text
 goocalendar
 emailvalid
 pyPDF2
-
+imaplib2
+jinja2
+psutil
+openpyxl
 
 #nereid
 wtforms-recaptcha
