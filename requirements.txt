@@ -55,7 +55,7 @@ pyflakes
 flake8
 suds>=0.4
 PyPDF2
-simplemysql
+simplemysql  # requires libmysqlclient-dev
 
 #For the scenarios
 behave
