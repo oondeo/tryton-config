@@ -68,7 +68,7 @@ pyaml>=13.12.0
 xlrd
 
 #retrofix
--e hg+https://hg@bitbucket.org/trytonspain/python-retrofix#egg=retrofix
+-e hg+https://hg@bitbucket.org/trytonspain/python-retrofix@79e2b0d5a6ee#egg=retrofix
 -e hg+https://hg@bitbucket.org/trytonspain/python-banknumber#egg=banknumber
 
 # galatea
