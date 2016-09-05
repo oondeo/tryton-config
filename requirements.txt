@@ -71,3 +71,6 @@ xlrd
 # galatea
 fabric
 slug
+
+#apm
+faulthandler
