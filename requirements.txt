@@ -56,6 +56,7 @@ flake8
 suds>=0.4
 PyPDF2
 simplemysql  # requires libmysqlclient-dev
+xlsxwriter
 
 #For the scenarios
 behave
@@ -70,8 +71,8 @@ pyaml>=13.12.0
 xlrd
 
 #retrofix
--e hg+https://hg@bitbucket.org/trytonspain/python-retrofix@79e2b0d5a6ee#egg=retrofix
--e hg+https://hg@bitbucket.org/trytonspain/python-banknumber#egg=banknumber
+#-e hg+https://hg@bitbucket.org/trytonspain/python-retrofix@79e2b0d5a6ee#egg=retrofix
+#-e hg+https://hg@bitbucket.org/trytonspain/python-banknumber#egg=banknumber
 
 # galatea
 fabric
