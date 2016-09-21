@@ -14,7 +14,6 @@ coverage>=3.6
 docutils>=0.10
 easyimap>=0.3.3
 imaplib2
-jinja2
 jsonrpclib
 lxml>=3.1.0
 mysql-python  # requires libmysqlclient-dev
