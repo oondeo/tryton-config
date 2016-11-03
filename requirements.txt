@@ -55,7 +55,7 @@ pyflakes
 flake8
 suds>=0.4
 PyPDF2
-simplemysql  # requires libmysqlclient-dev
+simplemysql  # requires libmysqlclient-dev and libmysqlclient18
 xlsxwriter
 
 #For the scenarios
