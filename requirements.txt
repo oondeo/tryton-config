@@ -51,6 +51,7 @@ suds>=0.4
 PyPDF2
 cached-property
 petl
+config
 
 #For the scenarios
 behave
