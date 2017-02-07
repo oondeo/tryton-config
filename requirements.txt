@@ -64,10 +64,6 @@ Flask-Babel
 Flask-WTF>=0.9.4
 pyaml>=13.12.0
 
-#documentation module
-path.py==9
-
-
 xlrd
 
 #retrofix / aeat
