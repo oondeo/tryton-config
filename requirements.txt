@@ -54,6 +54,7 @@ suds>=0.4
 PyPDF2
 cached-property
 wrapt
+bcrypt
 
 #For the scenarios
 behave
