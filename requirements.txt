@@ -55,6 +55,7 @@ PyPDF2
 cached-property
 wrapt
 bcrypt
+langid
 
 #For the scenarios
 behave
