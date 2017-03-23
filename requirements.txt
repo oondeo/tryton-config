@@ -26,6 +26,7 @@ pydot
 # require freetds-dev
 pymssql
 pyparsing>=1.5.6
+PySimpleSOAP
 python-dateutil>=2.1
 python-ldap>=2.4.10  # requires libldap2-dev libsasl2-dev
 python-nmap
