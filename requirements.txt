@@ -53,6 +53,30 @@ PyPDF2
 cached-property
 petl
 config
+# product_barcode_label
+pyBarcode
+# product_attachments
+python-magic
+pillow
+# account_payment_gateway_paypal
+iso8601
+# esale_shop
+unicodecsv
+# carrier_send_shipments_envialia
+envialia
+# magento
+magento
+# carrier_send_shipments_seur
+seur
+# carrier_send_shipments_mrw
+mrw
+# carrier_send_shipments_seurvalencia
+seurvalencia
+# carrier_send_shipments_correos
+correos
+# magento_product
+wikimarkup
+django
 
 #For the scenarios
 behave
@@ -75,3 +99,4 @@ slug
 
 #apm
 faulthandler
+
