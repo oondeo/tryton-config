@@ -53,6 +53,8 @@ PyPDF2
 cached-property
 petl
 config
+# res
+bcrypt
 # product_barcode_label
 pyBarcode
 # product_attachments
