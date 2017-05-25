@@ -78,6 +78,7 @@ correos
 # magento_product
 wikimarkup
 django
+pyenchant
 
 #For the scenarios
 behave
