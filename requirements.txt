@@ -79,6 +79,7 @@ correos
 wikimarkup
 django
 pyenchant
+weasyprint
 
 #For the scenarios
 behave
