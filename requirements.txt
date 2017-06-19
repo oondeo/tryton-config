@@ -57,6 +57,10 @@ PyPDF2
 simplemysql  # requires libmysqlclient-dev and libmysqlclient18
 xlsxwriter
 
+#sii
+zeep
+pyopenssl
+
 #For the scenarios
 behave
 
@@ -75,3 +79,10 @@ retrofix>=0.23
 # galatea
 fabric
 slug
+
+# aeat_sii
+zeep
+pyAEATsii
+cryptography
+pyOpenSSL
+
