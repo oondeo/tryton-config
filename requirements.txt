@@ -57,10 +57,6 @@ PyPDF2
 simplemysql  # requires libmysqlclient-dev and libmysqlclient18
 xlsxwriter
 
-#sii
-zeep
-pyopenssl
-
 #For the scenarios
 behave
 
@@ -85,4 +81,3 @@ zeep
 pyAEATsii
 cryptography
 pyOpenSSL
-
