@@ -103,3 +103,8 @@ slug
 #apm
 faulthandler
 
+# aeat_sii
+zeep
+pyAEATsii
+cryptography
+pyOpenSSL
