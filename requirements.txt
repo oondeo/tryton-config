@@ -57,6 +57,7 @@ cached-property
 wrapt
 bcrypt
 langid
+weasyprint
 
 #For the scenarios
 behave
