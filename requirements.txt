@@ -82,7 +82,7 @@ faulthandler
 
 # aeat_sii
 zeep
-pyAEATsii
+pyAEATsii>=0.2.5
 cryptography
 pyOpenSSL
 
