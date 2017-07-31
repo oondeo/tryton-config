@@ -99,6 +99,7 @@ retrofix>=0.23
 # galatea
 fabric
 slug
+Flask-Login
 
 #apm
 faulthandler
