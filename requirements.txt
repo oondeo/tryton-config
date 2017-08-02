@@ -56,6 +56,7 @@ suds>=0.4
 PyPDF2
 simplemysql  # requires libmysqlclient-dev and libmysqlclient18
 xlsxwriter
+pycparser
 
 #For the scenarios
 behave
