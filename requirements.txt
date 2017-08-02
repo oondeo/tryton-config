@@ -80,6 +80,7 @@ wikimarkup
 django
 pyenchant
 weasyprint
+pycparser
 
 #For the scenarios
 behave
