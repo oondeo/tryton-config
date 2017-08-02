@@ -58,6 +58,7 @@ wrapt
 bcrypt
 langid
 weasyprint
+pycparser
 
 #For the scenarios
 behave
