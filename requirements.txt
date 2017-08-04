@@ -57,6 +57,7 @@ PyPDF2
 simplemysql  # requires libmysqlclient-dev and libmysqlclient18
 xlsxwriter
 pycparser
+banknumber
 
 #For the scenarios
 behave
