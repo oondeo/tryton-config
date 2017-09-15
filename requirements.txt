@@ -67,14 +67,6 @@ unicodecsv
 envialia
 # magento
 magento
-# carrier_send_shipments_seur
-seur
-# carrier_send_shipments_mrw
-mrw
-# carrier_send_shipments_seurvalencia
-seurvalencia
-# carrier_send_shipments_correos
-correos
 # magento_product
 wikimarkup
 django
