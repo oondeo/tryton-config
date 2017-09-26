@@ -58,6 +58,7 @@ simplemysql  # requires libmysqlclient-dev and libmysqlclient18
 xlsxwriter
 pycparser
 banknumber
+bcrypt
 
 #For the scenarios
 behave
